@@ -22,6 +22,7 @@ In order to run the notebook locally, the following dependencies must be install
 - TensorFlow (>=r0.7)
 - NumPy
 - Jupyter Notebook
+- Python Imaging Library, available in Pillow
 
 To open the notebook, run `ipython notebook` command in this directory, and 
 select 'deepdream.ipynb' in the opened browser window.
